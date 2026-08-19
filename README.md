@@ -22,9 +22,9 @@
 
 <p align="center"><sub><strong>Executive view:</strong> audience profiles, genre opportunities, and lookalike strategy.</sub></p>
 
-## The 30-second version
+## Project at a glance
 
-A hypothetical streaming platform wants to understand **who its audiences are, what content resonates with them, and where segmentation actually changes a business decision**.
+Using the MovieLens 100K dataset, I modeled a streaming-platform analytics problem: **who the audiences are, what content resonates with them, and where segmentation actually changes a business decision**.
 
 I built an end-to-end analytics workflow that:
 
